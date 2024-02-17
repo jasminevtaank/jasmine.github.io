@@ -1,0 +1,22 @@
+*{
+    background-color: palevioletred;
+}
+.img{
+    height: 50%;
+    border-radius: 5%;
+    object-fit: cover;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+
+}
+.pwebsite{
+    display: flex;
+    align-items: center;
+    font-family: cursive;
+}
+.pwebsite-resume{
+    padding: 15px;
+    color: purple;
+    background-color: azure;
+}
